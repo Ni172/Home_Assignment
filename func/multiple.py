@@ -3,7 +3,7 @@ def mul(a, b):
 
 
 s = 'lllldddd'
-d = 'llllfdddd'
+d = 'llllfddddyy'
 
 if __name__ == '__main__':
     print(mul(2, 2))
